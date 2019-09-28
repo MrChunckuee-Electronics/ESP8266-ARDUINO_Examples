@@ -5,6 +5,7 @@
  *******************************************************************************
  * FileName:        ESP8266_001.ino
  * Processor:       NodeMCU ESP8266 Development Kit V1.0
+ * Biblioteca:      esp8266 by ESP8266 Community v2.5.2
  * Complier:        Arduino v1.8.9
  * Author:          Arduining
  * Description:     Going beyond Blink sketch to see the blue LED breathing.
